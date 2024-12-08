@@ -1,6 +1,17 @@
 <h1> Welcome to the <b>KneeCheck</b> Repository! 👋 </h1>
 <p>Hello! Thank you for visiting the <b>KneeCheck</b> repository. 🎉</p>
 
+## 💡 What is KneeCheck? 
+<b>KneeCheck</b> is an innovative mobile app designed to assist patients and doctors in analyzing osteoarthritis (OA) severity using machine learning technology.
+
+## 🌟  What Does KneeCheck Offer?
+<ul>
+  <li><b>📷 Automated X-Ray Analysis </b>: Upload knee joint X-rays for automated OA severity classification using our custom machine learning model.</li> 
+  <li><b>🔄 Dual Access</b>: Separate access for patients and doctors to personalize their experience.</li>
+  <li><b>📊 History Tracking</b>: Store and monitor X-ray upload history for long-term disease tracking.</li>
+  <li><b>🩺 Enhanced Care</b>: Improve diagnostics, enable personalized tracking, and support better patient outcomes.</li>
+<ul>
+
 
 ## Members Team C242-PS202
 | ID                  | Nama          | Asal Universitas                    | Team                  |
