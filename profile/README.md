@@ -1,6 +1,10 @@
 <h1> Welcome to the <b>KneeCheck</b> Repository! 👋 </h1>
 <p>Hello! Thank you for visiting the <b>KneeCheck</b> repository. 🎉</p>
 
+<p align="center">
+  <img style="width:30%; border-radius: 25px;" src="https://github.com/Knee-Check/.github/blob/main/profile/KneeCheck%20Logo.png" alt="Logo KneeCheck">
+</p>
+
 ## 💡 What is KneeCheck? 
 <b>KneeCheck</b> is an innovative mobile app designed to assist patients and doctors in analyzing osteoarthritis (OA) severity using machine learning technology.
 
