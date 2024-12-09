@@ -8,13 +8,15 @@
 <b>KneeCheck</b> is an innovative mobile app designed to assist patients and doctors in analyzing osteoarthritis (OA) severity using machine learning technology.
 
 ## 🌟  What Does KneeCheck Offer?
-<ul>
-  <li><b>📷 Automated X-Ray Analysis </b>: Upload knee joint X-rays for automated OA severity classification using our custom machine learning model.</li> 
-  <li><b>🔄 Dual Access</b>: Separate access for patients and doctors to personalize their experience.</li>
-  <li><b>📊 History Tracking</b>: Store and monitor X-ray upload history for long-term disease tracking.</li>
-  <li><b>🩺 Enhanced Care</b>: Improve diagnostics, enable personalized tracking, and support better patient outcomes.</li>
-<ul>
 
+  - <b>📷 Automated X-Ray Analysis </b>: Upload knee joint X-rays for automated OA severity classification using our custom machine learning model.
+  - <b>🔄 Dual Access</b>: Separate access for patients and doctors to personalize their experience.
+  - <b>📊 History Tracking</b>: Store and monitor X-ray upload history for long-term disease tracking.
+  - <b>🩺 Enhanced Care</b>: Improve diagnostics, enable personalized tracking, and support better patient outcomes.
+
+
+## 📥 Let's Get Started! 
+ 👉 **[Download Now](https://drive.google.com/file/d/108UlolpWHOq7GUaSNOt8p566BcWLd5B3/view?usp=drive_link)**
 
 ## Members Team C242-PS202
 | ID                  | Nama          | Asal Universitas                    | Team                  |
