@@ -1,8 +1,9 @@
 <h1> Welcome to the <b>KneeCheck</b> Repository! 👋 </h1>
 </br>
-<p align="center">
+<div align="center">
   <img style="width:40%; border-radius: 25px;" src="https://github.com/Knee-Check/.github/blob/main/profile/logo.png" alt="Logo KneeCheck">
-</p>
+  <p><i>"Quick Osteoarthritis Detection"</i></p>
+</div>
 
 ## 💡 What is KneeCheck? 
 <b>KneeCheck</b> is an innovative mobile app designed to assist patients and doctors in analyzing osteoarthritis (OA) severity using machine learning technology.
@@ -28,10 +29,9 @@ C193B4KY2963 | Muhammad Naufal Saputra | Universitas Bina Sarana Informatika | C
 C193B4KY4504 | Wisnu Aji Pamungkas | Universitas Bina Sarana Informatika | Cloud Computing | 
 A284B4KX1200 | Dwi Sukma Ayu | Universitas Negeri Surabaya | Mobile Development | 
 A284B4KY3677 | Ramadhan Abiyasa Harianto | Universitas Negeri Surabaya | Mobile Development | 
+
+
 <!--
-
-**Here are some ideas to get you started:**
-
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
