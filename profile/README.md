@@ -1,7 +1,7 @@
 <h1> Welcome to the <b>KneeCheck</b> Repository! 👋 </h1>
 </br>
 <p align="center">
-  <img style="width:40%; border-radius: 25px;" src="https://github.com/Knee-Check/.github/blob/main/profile/KneeCheck%20Logo.png" alt="Logo KneeCheck">
+  <img style="width:40%; border-radius: 25px;" src="https://github.com/Knee-Check/.github/blob/main/profile/logo.png" alt="Logo KneeCheck">
 </p>
 
 ## 💡 What is KneeCheck? 
